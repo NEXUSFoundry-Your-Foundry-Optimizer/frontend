@@ -55,45 +55,35 @@ NEXUS-Foundry operates as a **closed cyber-physical feedback loop**:
 ### 1. Landing Page & Hero Section
 *Animated interactive 3D induction furnace preview, platform value propositions, problem statements, and four-stage foundry workflow.*
 
-```markdown
-![Landing Page & 3D Hero](https://via.placeholder.com/1280x720.png?text=NEXUS-Foundry+Landing+Page+%26+Interactive+3D+Hero)
-```
+![Landing Page & 3D Hero](docs/screenshots/landing-hero.png)
 
 ---
 
 ### 2. Cross-Stage Digital Twins (Melting, Molding, Pouring, Quality)
 *Stage-specific telemetry, live sensor gauges, 48-hour degradation curves, compactability envelopes, and ladle fill percentages.*
 
-```markdown
-![Digital Twins View](https://via.placeholder.com/1280x720.png?text=Digital+Twins+Live+State+%28Melting+%7C+Molding+%7C+Pouring+%7C+Quality%29)
-```
+![Digital Twins View](docs/screenshots/digital-twins.png)
 
 ---
 
 ### 3. Unified Real-Time Foundry Operations Dashboard
 *Plant-wide operational KPIs, live sensor telemetry streams, cross-stage anomaly alerts, and active furnace operating states.*
 
-```markdown
-![Operations Dashboard](https://via.placeholder.com/1280x720.png?text=Foundry+Operations+Dashboard+%26+Live+Sensor+Streams)
-```
+![Operations Dashboard](docs/screenshots/operations-dashboard.png)
 
 ---
 
 ### 4. Final Analytics & Defect Root-Cause Intelligence
 *Multi-stage parameter correlation, SHAP feature attribution rankings, scrap reduction heatmaps, and defect classification distributions.*
 
-```markdown
-![Final Analytics](https://via.placeholder.com/1280x720.png?text=Predictive+Analytics+%26+SHAP+Defect+Attribution+Breakdown)
-```
+![Final Analytics](docs/screenshots/final-analytics.png)
 
 ---
 
 ### 5. Cognitive RAG Assistant & PINN Simulation Studio
 *Interactive domain assistant citing foundry SOPs and live twin states, alongside physics-constrained what-if simulation sliders.*
 
-```markdown
-![Cognitive Assistant & PINN](https://via.placeholder.com/1280x720.png?text=Cognitive+RAG+Assistant+%26+PINN+Simulation+Studio)
-```
+![Cognitive Assistant & PINN](docs/screenshots/cognitive-rag-pinn.png)
 
 ---
 
